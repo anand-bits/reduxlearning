@@ -18,5 +18,16 @@ Any javascript the state of the application can change.
 
 in redux , all the transitions are explicit and it is possible to keep track of them.
 
-ex:- todo list app- item(pending) --> item(completed)
+ex:- todo list app- item(pending) --> item(completed).
+
+
+
+
+Question :-
+
+useContext +useReducer can be used as Redux  but why we use the redux
+
+
+react-redux is a library that provides bindings to use React and Redux Together in an application.
+
 
